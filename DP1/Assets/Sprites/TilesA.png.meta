@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 902b60de84277f949aa3920249a8b75b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 70035461254734118
+    second: TilesA_0
+  - first:
+      213: 8107025634423728351
+    second: TilesA_0
+  - first:
+      213: 756663501755188239
+    second: TilesA_1
+  - first:
+      213: -6801444934894086589
+    second: TilesA_2
+  - first:
+      213: -5673808185065527315
+    second: TilesA_3
+  - first:
+      213: -8313093496398963262
+    second: TilesA_4
+  - first:
+      213: -1029625923731750698
+    second: TilesA_5
+  - first:
+      213: -6355603413668076266
+    second: TilesA_6
+  - first:
+      213: -5859721552623506537
+    second: TilesA_7
+  - first:
+      213: -805799237816201962
+    second: TilesA_8
+  - first:
+      213: -404448602489767807
+    second: TilesA_9
+  - first:
+      213: 4081540214493326705
+    second: TilesA_10
+  - first:
+      213: 7293424342013744369
+    second: TilesA_11
+  - first:
+      213: -5024146683051893906
+    second: TilesA_12
+  - first:
+      213: -7530802642744882846
+    second: TilesA_13
+  - first:
+      213: -7269724605574884939
+    second: TilesA_14
+  - first:
+      213: -207185044555652566
+    second: TilesA_15
+  - first:
+      213: 7042841729949917522
+    second: TilesA_16
+  - first:
+      213: -1353905245207898388
+    second: TilesA_17
+  - first:
+      213: -646028285136426118
+    second: TilesA_18
+  - first:
+      213: 8265669849128079504
+    second: TilesA_19
+  - first:
+      213: -1459118670063203921
+    second: TilesA_20
+  - first:
+      213: 265891643117267504
+    second: TilesA_21
+  - first:
+      213: -1873487938426069185
+    second: TilesA_22
+  - first:
+      213: -1746462138510314121
+    second: TilesA_23
+  - first:
+      213: 4466930366435269518
+    second: TilesA_24
+  - first:
+      213: -479556162699979024
+    second: TilesA_25
+  - first:
+      213: 6808038834995975497
+    second: TilesA_26
+  - first:
+      213: 7343765221678312025
+    second: TilesA_27
+  - first:
+      213: 2906434777359180716
+    second: TilesA_28
+  - first:
+      213: 5832657620696845126
+    second: TilesA_29
+  - first:
+      213: -6509656579587356397
+    second: TilesA_30
+  - first:
+      213: -1849563310642942921
+    second: TilesA_31
+  - first:
+      213: -2820707891262857780
+    second: TilesA_32
+  - first:
+      213: -7161111490932470164
+    second: TilesA_33
+  - first:
+      213: 7682173578231094264
+    second: TilesA_34
+  - first:
+      213: -2017182542310070680
+    second: TilesA_35
+  - first:
+      213: -5039841679433192581
+    second: TilesA_36
+  - first:
+      213: 6347762166894919023
+    second: TilesA_37
+  - first:
+      213: -8587537906631006266
+    second: TilesA_38
+  - first:
+      213: 1972142516289163092
+    second: TilesA_39
+  - first:
+      213: 3965496502476867949
+    second: TilesA_40
+  - first:
+      213: -6123803259795999435
+    second: TilesA_41
+  - first:
+      213: 7645051273083453874
+    second: TilesA_42
+  - first:
+      213: 7623503608854013777
+    second: TilesA_43
+  - first:
+      213: 6920948821901484941
+    second: TilesA_44
+  - first:
+      213: 93905249091930503
+    second: TilesA_45
+  - first:
+      213: 6086177486075413384
+    second: TilesA_46
+  - first:
+      213: -4542471384433191283
+    second: TilesA_47
+  - first:
+      213: -6429475802206640206
+    second: TilesA_48
+  - first:
+      213: 2798071807563806000
+    second: TilesA_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8efc49cd0f18070800000000000000
+      internalID: 8107025634423728351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesA_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040f942275308a00800000000000000
+      internalID: 756663501755188239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
