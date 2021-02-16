@@ -638,6 +638,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1276689828}
+    - target: {fileID: 749162857914347964, guid: e75229cad24f2524c80b8adfab0d0a50, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a58c1b828f0d1a14b86af88f087af39e, type: 2}
     - target: {fileID: 798310193647254921, guid: e75229cad24f2524c80b8adfab0d0a50, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -770,6 +774,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 2008015616}
+    - target: {fileID: 2676314412169533142, guid: e75229cad24f2524c80b8adfab0d0a50, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a58c1b828f0d1a14b86af88f087af39e, type: 2}
     - target: {fileID: 3178570577822691326, guid: e75229cad24f2524c80b8adfab0d0a50, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -790,6 +798,14 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 2043973483}
+    - target: {fileID: 5446195910223702916, guid: e75229cad24f2524c80b8adfab0d0a50, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a58c1b828f0d1a14b86af88f087af39e, type: 2}
+    - target: {fileID: 5692619867613021298, guid: e75229cad24f2524c80b8adfab0d0a50, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a58c1b828f0d1a14b86af88f087af39e, type: 2}
     - target: {fileID: 6636779704031966538, guid: e75229cad24f2524c80b8adfab0d0a50, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -2671,7 +2687,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 48afed4f9c0f35f44950155481925bd8, type: 2}
+  - {fileID: 2100000, guid: 833477778175eaf438b9bded0f9e50d8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
