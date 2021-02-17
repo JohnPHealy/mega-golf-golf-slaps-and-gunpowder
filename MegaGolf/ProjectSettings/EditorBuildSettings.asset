@@ -23,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Aoife_2.unity
     guid: 2fd8866fe318bd3429aa43a3ee36a117
+  - enabled: 1
+    path: Assets/Scenes/Gabriele_2.unity
+    guid: 93a78370dc7dfba43931fb0de25863d7
+  - enabled: 1
+    path: Assets/Scenes/bar.unity
+    guid: 1bdfd6edfc996e047adf85488191e23e
   m_configObjects: {}
